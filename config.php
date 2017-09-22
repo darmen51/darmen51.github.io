@@ -1,0 +1,1 @@
+<?php $adminlogin = ’24’;$adminpassw = ’qwerty12’;?>
